@@ -1,0 +1,18 @@
+
+.wrapper{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+body{
+    margin: 0;
+}
+.site-header{
+    background-color: beige;
+}
+.main-content{
+    background-color: rgb(178, 116, 178);
+}
+.footer-one{
+    background-color: rgb(99, 99, 118);
+}
